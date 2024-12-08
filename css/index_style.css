@@ -1,0 +1,223 @@
+.animaion {display: inline-block; }
+.texttt {
+
+font-size: 5em;
+letter-spacing: 5px;
+border-right: 5px solid;
+width: 100%;
+white-space: nowrap;
+overflow: hidden;
+animation:
+typing 2s steps(26),
+cursor .4s step-end infinite alternate;
+
+}
+
+@keyframes cursor {
+50% { border-color : transparent }
+}
+#home{
+    background-attachment: fixed !important;
+ }
+
+@keyframes typing {
+from { width: 0 }
+}
+
+.overlay{
+    background-color: rgba(0, 0, 0, .5);
+    
+}
+.navb{
+    --bs-navbar-color: rgba var(--bs-emphasis-color-rgb);
+    --bs-navbar-active-color: rgba var(--bs-emphasis-color-rgb);
+    --bs-navbar-brand-color: rgba var(--bs-emphasis-color-rgb); 
+    
+}
+
+.about{
+    span{
+        font-weight: 600;
+        padding-right: 2px;
+    }
+}
+.back-ground{
+    background-image: url(../hero-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+.text{
+    line-height:30px;
+}
+
+.carr{
+    width: 90%;
+}
+.testmotion{
+    
+    background-image: url(../overlay-bg.jpg);
+    background-attachment: fixed !important;
+    
+    
+}
+
+
+
+.progg{
+    margin: 10px 0;
+}
+.overlay1{
+    background-color: rgba(25, 113, 201, 0.7);
+    
+    
+}
+.testmoo img{
+
+    width: 10%;
+    border-radius: 100%;
+    position: relative;
+    top: 50%;
+    left: 45%;
+    padding: 250px 0;
+    
+}
+.pos{
+    position: absolute;
+    top:61%;
+}
+.card-body > i{
+    padding: 20px;
+    border: solid 8px #0078ff;
+    font-size: 40px;
+    border-radius: 100%;
+    padding:25px;
+    transition: .5s ease;
+    
+}
+.card-body:hover i{
+
+    color: white;
+    background-color: #0078ff;
+    border: solid 8px #78ace8;
+}
+.se1{
+    background-color: #f5f5f5;
+    padding: 30px 0;
+}
+.edit{
+    border: solid transparent;
+    
+}
+.pic{
+    overflow: hidden;
+
+}
+.pic img{
+    
+    transition:1s  ease;
+    margin-bottom: 10px;
+    
+}
+
+.pic:hover img {
+    transform: scale(1.2);
+}
+
+.dis{
+    position: relative;
+}
+.dis .disc{
+    position: absolute;
+    top: 61%;
+    left: 40%;
+    width: 80px;
+    height: 25px;
+    background-color: #0078ff;
+    border-radius: 10px;
+    color: #f5f5f5;
+    text-align: center;
+}
+
+.tesstmotional{
+    background: url(../counters-bg.jpg);
+}
+.testomo1{
+
+    display: flex;
+    flex-direction: column;
+    color: #ede9e9;
+    text-align: center;
+
+    padding: 150px 0;
+
+    i{
+
+        font-size: xx-large;
+
+    }
+
+}
+.area{
+    width: 87%;
+}
+
+.formm {
+    
+    
+    button{
+        padding: 10px 50px;
+        border-radius: 100vh;
+    }
+    
+}
+.ediform{
+
+    flex-direction: column;
+}
+.media{
+
+    font-size: x-large;
+
+    padding: 10px;
+    border: #0078ff solid 5px;
+    border-radius: 50%;
+    margin: 5px;
+    transition: .5s ease;
+}
+
+.media:hover{
+    color: #ede9e9;
+    background-color: #0078ff;
+    
+}
+.footr{
+    background-image: url(../overlay-bg.jpg);
+}
+
+.fixxed{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    a{
+        i{
+            color: #ede9e9;
+            background-color: #0078ff;
+            padding: 10px;
+            border-radius: 100%;
+            padding: 14 15px;
+        }
+    }
+}
+
+.fixxed:hover i{
+    background-color: #3892f8;
+    
+}
+
+
+
+
+
+
+

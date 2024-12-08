@@ -1,0 +1,214 @@
+@media only screen and (max-width: 600px) {
+
+
+
+
+    .query1{
+        display: flex;
+
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        
+    }
+    .query2{
+        display: flex;
+
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+        
+
+    }
+    .q1{
+        display: flex;
+
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px 0;
+
+    }
+    .q1 div{
+        padding: 20px;
+    }
+    
+    .q2{
+        
+    flex-direction: column;
+    width: 100%;
+    line-height: normal;
+
+    }
+
+    .querey3{
+        display: flex;
+
+        
+        align-items: center;
+        flex-direction: column;
+        
+
+    }
+    .tesstmotional{
+        background-repeat: no-repeat;
+        background-clip: border-box;
+        background-size: cover;
+    }
+
+    .query4{
+        display: flex;
+
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+        
+
+    }
+    .card{
+        margin: 20px 0;
+    }
+    .query5{
+        q5{
+            width: 100%;
+        }
+    }
+    .query6{
+        display: flex;
+
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+
+    }
+
+    .query7{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 45px;
+    }
+    .query7 .formm{
+        width: 100%;
+    }
+}
+
+
+
+
+
+@media only screen and (min-width: 600px ) and (max-width:840px) {
+
+    .query1{
+        display: flex;
+
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        
+    }
+    .query2{
+        display: flex;
+
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+        
+
+    }
+    .q1{
+        display: flex;
+
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px 0;
+
+    }
+    .q1 div{
+        padding: 20px;
+    }
+    .q1 img{
+        width: 80%;
+    }
+    
+    .q2{
+        
+    flex-direction: column;
+    width: 100%;
+    line-height: normal;
+
+    }
+
+    .querey3{
+        display: flex;
+
+        
+        align-items: center;
+        flex-direction: column;
+        
+
+    }
+    .tesstmotional{
+        background-repeat: no-repeat;
+        background-clip: border-box;
+        background-size: cover;
+    }
+
+    .query4{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+         flex-wrap: wrap;
+     }
+     
+
+     
+    
+    .query5{
+        q5{
+            width: 100%;
+        }
+    }
+    .query6{
+        display: flex;
+
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        
+
+    }
+    .query6 .card{
+        margin: 20px 0 ;  
+        width: 600%;
+    }
+
+    .query7{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 45px;
+    }
+    .query7 .formm{
+        width: 100%;
+    }
+    .querry8{
+        margin: 20px 0;
+
+    }
+    .q10{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+
+    }
+    
+
+
+
+
+
+}
